@@ -1,0 +1,8 @@
+new lst=[]
+str=input("enter the text")
+wrd=input("enter the word to be rwemoved")
+lst=str.split()
+for x in lst
+	if(x.lower()!=word.lower())
+		new lst.append(x)
+print((" ").new list[])
